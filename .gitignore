@@ -1,0 +1,5 @@
+.idea
+bookssm.iml
+# Project exclude paths
+/out/
+/target/
